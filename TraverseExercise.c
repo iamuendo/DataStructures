@@ -1,5 +1,12 @@
+/*
+ Author - Muendo Isaac Maingi
+ Admission no - BSE-01-0084/2025
+*/
+
+// 1. Import the standard input and output library
 #include <stdio.h>
 
+//2. 
 void insert(int arr[], int n, int value) {
     arr[n] = value;
     printf("Book with ID %d added successfully.\n", value);
