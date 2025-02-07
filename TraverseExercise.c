@@ -1,6 +1,6 @@
 /*
  Author - Muendo Isaac Maingi
- Admission no - BSE-01-0084/2025
+ Admission no - BSE-01-0024/2025
 */
 
 #include <stdio.h>  // Include a standard input and output library
